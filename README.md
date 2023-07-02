@@ -8,7 +8,7 @@ The Kanban app provide you to manage the all task as you want.
 
 # Demo
 
-[Kanban - Live ◀️](https://password-generator-dhyanpatel110.vercel.app/)
+[Kanban - Live ◀️](https://kanban-dhyanpatel110.vercel.app/)
 
 ## Project setup
 
